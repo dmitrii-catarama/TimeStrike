@@ -1,4 +1,4 @@
-*TimeStrike
+#TimeStrike
 
 Reflex & Timing Game
 Un joc simplu de reflexe si timing implementat pe microcontroller AVR (Arduino), cu display LCD si butoane pentru 4 jucatori.
